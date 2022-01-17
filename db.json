@@ -1,0 +1,64 @@
+{
+	"vaisiai": [
+		{
+			"userId": 1,
+			"id": 1,
+			"title": "Bananas",
+			"body": "Bananas (Musa) – valgoma pailgos formos Musa žydinčių žolinių augalų genties uoga. Kai kuriose šalyse uogos pavadinimas skiriasi, priklausomai nuo to, ar ši naudojama kaip užkandis ir desertas (bananas), ar yra naudojami patiekaluose kaip ingredientai (platanas)."
+		},
+		{
+			"userId": 2,
+			"id": 1,
+			"title": "Braškė",
+			"body": "Braškės pirmą kartą veistos Prancūzijos Bretanės regione 1750 metais, sukryžminus tarpusavyje virgininę žemuogę (Fragaria virginiana), atgabentą iš rytinės Šiaurės Amerikos, ir čilinę žemuogę (Fragaria chiloensis), 1714 metais Amédée-François Frézier atgabentą iš Čilės.."
+		},
+		{
+			"userId": 3,
+			"id": 2,
+			"title": "Žemuogė",
+			"body": "Žemuogių gentyje yra apie 19 savaiminių, natūralių rūšių, kitos 4 hibridinės rūšys bei dar daugiau veislių. Lietuvoje savaime auga 3 rūšys bei introdukuota 1 hibridinė rūšis, iš kurios išvesta ir auginama nemažai kultūrinių braškių veislių."
+		},
+		{
+			"userId": 4,
+			"id": 2,
+			"title": "Avietė",
+			"body": "Avietė (Rubus subgen. Idaeobatus) – erškėtinių (Rosaceae) šeimos augalų gervuogių (Rubus) pogentė. Tai statūs krūmai su nevienodai gausiai dygliuotais, šeriuotais arba liaukingais stiebais. Lapai dažniausiai trilapiai arba plunksniški. Prinokę vaisiai lengvai atsiskiria nuo žiedsosčio."
+		},
+		{
+			"userId": 5,
+			"id": 3,
+			"title": "Mėlynė",
+			"body": "Mėlynės savaime paplitusios beveik visoje Europoje (išskyrus tolimus pietus, pietryčius ir tolimus šiaurės rytus) ir Vakarų Sibire. Europos pietinėse dalyse auga iki 2 km aukštyje."
+		},
+		{
+			"userId": 6,
+			"id": 3,
+			"title": "Ananasas",
+			"body": "Augalas kilęs iš Pietų Amerikos, kaip manoma, Brazilijos, Paragvajaus ir Urugvajaus regiono. Dar iki Amerikos atradimo, šie vaisiai paplito po žemyną. 1493 m. Kristupas Kolumbas ananasus pamatė Gvadelupoje ir atgabeno į Europą (tai buvo pirmasis bromelijinis augalas, išvežtas iš Amerikos)."
+		},
+		{
+			"userId": 7,
+			"id": 4,
+			"title": "Kivis",
+			"body": "XX a. pradžioje laukinė aktinidija, kurios vaisius svėrė tik 30 g, buvo atvežta į Naująją Zelandiją. Ten išvesta kultūrinė stambiavaisė kiniška aktinidija, kurios vaisiaus svoris siekia 100 g, žymiai pagerėjo skoninės savybės."
+		},
+		{
+			"userId": 8,
+			"id": 4,
+			"title": "Mangas",
+			"body": "Medis yra visažalis, 15-18 m aukščio, lapai iki 30 cm ilgio. Labiausiai paplitusios rūšies mangai - pailgi, su lygia oranžine odele, tačiau pasitaiko vaisių tamsiai žalios spalvos su raudonu šonu."
+		},
+		{
+			"userId": 9,
+			"id": 5,
+			"title": "Papaja",
+			"body": "Vaistingosios augalo savybės europiečiams yra žinomos jau nuo XVI a., kada 1519 metais Fernando Kortesas, šalia Meksiko miesto buvo apsinuodijęs mėsa. Vietiniai gyventojai pagirdė jį gėrimu iš papajos, ir Kortesas greit pasveiko."
+		},
+		{
+			"userId": 10,
+			"id": 5,
+			"title": "Kriaušė",
+			"body": "Kriaušės, kaip sukultūrinti augalai, žinomi iš labai senų laikų. Jas mini jau Homeras. Kriaušių buvo išvesta daugybė rūšių ir veislių. Teofrastas mini tris veisles, Katonas penkias – šešias, o Plinijus jau pamini mažiausiai 38 kriaušių veisles. XVII a."
+		}
+	]
+}
