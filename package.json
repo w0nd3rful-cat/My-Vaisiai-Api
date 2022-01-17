@@ -1,0 +1,23 @@
+{
+	"name": "my-vaisiai-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node.server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/w0nd3rful-cat/My-Vaisiai-Api.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/w0nd3rful-cat/My-Vaisiai-Api/issues"
+	},
+	"homepage": "https://github.com/w0nd3rful-cat/My-Vaisiai-Api#readme",
+	"dependencies": {
+		"json-server": "^0.17.0"
+	}
+}
